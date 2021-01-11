@@ -1,0 +1,22 @@
+{
+  "home": {
+    "name": "Name",
+    "familyname": "Nachname",
+    "address": "Adresse",
+    "countryoforigin": "das Ursprungsland",
+    "emailaddress":"die E-Mail-Adresse",
+    "age":"Alter",
+    "hired":"gemietet",
+    "send":"Senden",
+    "reset":"zurücksetzen",
+    "requiredfield":"${$displayName} ist erforderlich ",
+    "resetmessage" :"Formular leeren"
+  },
+  "success": {
+    "success": "Erfolg"
+  },
+  "popup" :{
+    "cancel":"stornieren",
+    "ok":"fortsetzen"
+  }
+}
